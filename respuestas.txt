@@ -45,3 +45,11 @@ los objetivos
 el momento de tomar decisiones correctivas ?
 
 La comparación de los resultados con los objetivos
+
+6- Explique ¿por qué la toma de decisiones estratégicas en una 
+organización, sería mejor utilizando sistemas informáticos?
+
+Porque se obtiene mayor información y de manera más precisa
+de los resultados obtenidos mediante la gestión, a su vez se 
+ve la tendencia en lo que los clientes demandan a la empresa
+ya sean bienes o servicios 
