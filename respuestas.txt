@@ -40,3 +40,8 @@ mejorar en el
 La administración, puesto que esta se encarga de gestionar 
 cada aspecto de la empresa para que orientarla al logro de
 los objetivos
+
+5- ¿Qué comparativo nos permite saber rápidamente que ha llegado 
+el momento de tomar decisiones correctivas ?
+
+La comparación de los resultados con los objetivos
