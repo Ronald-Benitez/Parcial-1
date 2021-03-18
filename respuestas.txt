@@ -3,3 +3,24 @@ Conjunto de componentes independientes que sirven para cumplir
 un objetivo común, como por ejemplo en un hospital existen 
 diversos tipos de doctores que se centran en cosas separadas
 pero entre todos forman el hospital como sistema
+
+2- 3 ejemplos de sistemas abiertos y 3 ejemplos de sistemas 
+cerrados 
+
+Abiertos
+
+2.1- Una fabrica: puesto que necesita resivir insumos constantemente
+2.2- Un parque recreativo: en un sistema de juegos ya sean 
+     electronicos o estaticos (como los columpios) que necesitan
+     de interacción humana para funcionar
+2.3- Una impresora: necesita revisir tinta, páginas y los datos
+     que debe imprimir
+
+Cerrados
+
+2.4- Una consola de videojuegos: internamente hace todos los
+     procesos necesarios para poder jugar
+2.5- Un mouse: el tiene los componentes necesarios para poder
+     realizar los calculos y enviar el movimiento realizado
+2.6- Una lata de aire comprimido: por su cuenta mantiene encerrados
+     gases a presión que lo podrán salir con una alta presión
