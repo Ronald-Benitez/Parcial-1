@@ -66,3 +66,12 @@ Tener herramientas antiguas, que le dificulten adaptar
 técnicas nuevas, así como la resistencia al cambio
 por parte de los trabajadores
 
+9- ¿Por qué es importante conocer el organigrama de una 
+organización al momento de realizar un análisis de los
+cambios o mejoras que se pueden hacer en esta?
+
+Porque se sabe quienes son los que interactuan más con el
+sistema y de esta forma saber a quienes hacerle preguntas
+especificas para conocer los problemas en cada area del sistema
+de esta forma por ejemplo el contador podría mencionar 
+problemas que un vendedor no
