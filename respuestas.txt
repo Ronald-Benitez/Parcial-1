@@ -24,3 +24,12 @@ Cerrados
      realizar los calculos y enviar el movimiento realizado
 2.6- Una lata de aire comprimido: por su cuenta mantiene encerrados
      gases a presión que lo podrán salir con una alta presión
+
+3- ¿Qué limitaciones significativas se tendrían si no aplicamos 
+   un enfoque de sistemas?
+
+No podrían haber especializaciones ya que todos tendrían que saber
+un poco de todo, limitaria el progreso puesto que para lograr
+avanzar mucho en un aspecto una persona o un grupo deben de 
+enfocarse en el para lograr entender como funciona y como lograr
+mejorar en el
