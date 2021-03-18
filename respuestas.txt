@@ -1,0 +1,5 @@
+1- ¿Qué entiende por sistemas?
+Conjunto de componentes independientes que sirven para cumplir
+un objetivo común, como por ejemplo en un hospital existen 
+diversos tipos de doctores que se centran en cosas separadas
+pero entre todos forman el hospital como sistema
